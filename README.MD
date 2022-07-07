@@ -41,25 +41,20 @@ Ex:- https://server_ip:943/admin
 
 # OpenVPN network and user configurations
 
-# Step:1 
-Login with username and password(username: openvpn, password: as per the configuration)
+**1) Login with username and password(username: openvpn, password: as per the configuration)**
 
-# Step:2 
-Elaborate Configurations and select Network Settings, In Hostname or IP Address field enter server_public_IP or DNS name and save the settings.
+**2) Elaborate Configurations and select Network Settings, In Hostname or IP Address field enter server_public_IP or DNS name and save the settings.**
 
-# Step:3 
-Elaborate User Management and select user permissions. Here enter username, in more settings configure password and save the settings.
+**3) Elaborate User Management and select user permissions. Here enter username, in more settings configure password and save the settings.**
 
-# Step:4 
-In User Management select user profiles, here download new profiles for users and send to users to give VPN Access.
+**4) In User Management select user profiles, here download new profiles for users and send to users to give VPN Access.**
 
 
 # OpenVPN client connect installation
  
-In order to connect to OpenVPN Access to Server, please follow these steps:
-# Step 1: 
+**1) In order to connect to OpenVPN Access to Server, please follow these steps:**
 
-Download and install OpenVPN Connect App:
+**2) Download and install OpenVPN Connect App:**
 
 For Windows OS : https://openvpn.net/client-connect-vpn-for-windows/
 
@@ -67,18 +62,9 @@ For Linux OS: https://community.openvpn.net/openvpn/wiki/OpenVPN3Linux
 
 For Mac OS: https://openvpn.net/client-connect-vpn-for-mac-os/
  
-# Step 2: 
+**3) After downloading Launch OpenVPN Connect App.**
 
-After downloading Launch OpenVPN Connect App.
-# Step 3: 
+**4) After successfully launching select file and upload the file attached to this mail.**
 
-After successfully launching select file and upload the file attached to this mail.
-
-# Step 4: 
-
-Here Click on connect and enter the password to start VPN
-
- 
-# Step 4: 
-And Here you can see the VPN status
+**5) Here Click on connect and enter the password to start VPN and Here you can see the VPN status**
 
